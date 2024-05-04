@@ -1,0 +1,10 @@
+<?php
+return
+[
+    'Home'=>'Home',
+    'About'=>'About',
+    'Members'=>'Members',
+    'Activites'=>'Activites',
+    'Gallery'=>'Gallery',
+]
+?>
